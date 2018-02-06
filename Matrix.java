@@ -19,7 +19,6 @@ public class Matrix {
 		myMatrix = blankMatrix;
 	}
 	
-	//How could I have better created this constructor and others like it?
 	public Matrix(int rows, int columns, boolean placeholder){
 		y = rows;
 		x = columns;
